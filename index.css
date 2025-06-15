@@ -1,0 +1,64 @@
+body{
+    text-align:center;
+}
+.game{
+    height:550px;
+    width:580px;
+    border-radius:5%;
+    background-color:wheat;
+    border:3px solid black;
+    display:flex;
+    justify-content:center;
+    margin-top:2px;
+}
+.play{
+     height:560px;
+    width:590px;
+    border-radius:5%;
+    background-color:gold;
+    border:3px solid black;
+    display:flex;
+    justify-content:center;
+}
+.btn{
+    height:180px;
+    width:180px;
+    border-radius:5%;
+    border:3px solid black;
+    display:flex;
+    margin-top:65px;
+    margin-bottom:45px;
+    margin-left:5px;
+    margin-right:5px;
+    justify-content:center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
+.btn-container{
+    display:flex;
+    justify-content:center;
+              }
+.yellow{
+    background-color:yellow;
+        }
+.red{
+    background-color:red;
+    }
+.blue{
+    background-color:rgb(7, 155, 234);
+    }
+.green{
+    background-color:rgb(15, 226, 15);
+      }   
+.flash{
+    background-color:white;
+      }
+.userflash{
+  background-color:green;  
+          }
+h1,h2{
+    font-family:'Courier New', Courier, monospace;
+} 
+
+h4{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}        
